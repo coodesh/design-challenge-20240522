@@ -57,8 +57,8 @@ Some important elements that we have in the mobile version:
 
 ### Extras
 
-- ** Differential 1 ** Create the visual single product proposal
-- ** Differential 2 ** Prototyping the Valuation Modal in the Desktop version
+- **Differential 1** Create the visual single product proposal
+- **Differential 2** Prototyping the Valuation Modal in the Desktop version
 
 ## Repository Readme
 
