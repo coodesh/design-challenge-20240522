@@ -39,7 +39,7 @@ The Design System for the project will be an initial draft with:
 
 ### Mobile Version
 
-To develop Mobile screens, we must review whether the UI and UX are correct before working on the prototype. With your knowledge, review the proposal and apply the necessary corrections that you consider necessary to improve the usability of the project.
+To develop Mobile screens, we must review whether the UI and UX are appropriate/consistent/satisfying before working on the prototype. With your knowledge, review the proposal and apply the necessary corrections that you consider necessary to improve the usability of the project.
 
 ### Desktop Version
 
@@ -57,8 +57,8 @@ Some important elements that we have in the mobile version:
 
 ### Extras
 
-- ** Differential 1 ** Create the visual single product proposal
-- ** Differential 2 ** Prototyping the Valuation Modal in the Desktop version
+- **Differential 1** Create the visual single product proposal
+- **Differential 2** Prototyping the Valuation Modal in the Desktop version
 
 ## Repository Readme
 
