@@ -49,8 +49,9 @@ No Wireframe proposal was developed for the mobile version, so we should elabora
 ### Extras
 
 - **Differential 1** Create a tablet proposal
-- **Differential 2** Prototyping the Valuation Modal in the Desktop version
-- **Differential 3** Use fluid components 
+- **Differential 2** Use fluid components on Figma or Adobe XD
+- **Differential 3** Prototyping a new screen that contains a table with users list and dynamic filters (Search, Order by, etc..) 
+
 
 ## Repository Readme
 
