@@ -18,11 +18,11 @@ Its goal is to create a project that gives attention to the requirements mention
 
 ## Step by step
 
-In this challenge, we worked on the elaboration of an initial structure of the Design System and the development of two mobile and web prototypes of the screens of the e-commerce project of a new Trevo Digital Client.
+In this challenge, we worked on the elaboration of an initial structure of the Design System and the development of two mobile and web prototypes of the screens of the Dashboard project of a new Trevo Digital Client.
 
-Before starting work, the requirements and analysis team developed the initial WireFrame for the mobile version of the project:
+Before starting work, the requirements and analysis team developed the initial WireFrame for the desktop version of the project:
 
-![Mobile](assets/mobile.png)
+![Dashboard](assets/Dashboard.png)
 
 To work on the prototype, we must follow the color palette that the client sent:
 
@@ -37,28 +37,20 @@ The Design System for the project will be an initial draft with:
 - Components
 
 
-### Mobile Version
-
-To develop Mobile screens, we must review whether the UI and UX are appropriate/consistent/satisfying before working on the prototype. With your knowledge, review the proposal and apply the necessary corrections that you consider necessary to improve the usability of the project.
-
 ### Desktop Version
 
-No Wireframe proposal was developed for the desktop version, so we should elaborate it following the structure of the mobile version, but applying the necessary adjustments for the new version.
+To develop Desktop screens, we must review whether the UI and UX are appropriate/consistent/satisfying before working on the prototype. With your knowledge, review the proposal and apply the necessary corrections that you consider necessary to improve the usability of the project.
 
-Some important elements that we have in the mobile version:
+### Mobile Version
 
-- Product image
-- Title
-- Valuation
-- Price
-- More options button
+No Wireframe proposal was developed for the mobile version, so we should elaborate it following the structure of the desktop version, but applying the necessary adjustments for the new version.
 
-> Tip: A difference between the versions would be the pagination.
 
 ### Extras
 
-- **Differential 1** Create the visual single product proposal
+- **Differential 1** Create a tablet proposal
 - **Differential 2** Prototyping the Valuation Modal in the Desktop version
+- **Differential 3** Use fluid components 
 
 ## Repository Readme
 
