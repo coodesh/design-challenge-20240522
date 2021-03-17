@@ -18,7 +18,7 @@ Its goal is to create a project that gives attention to the requirements mention
 
 ## Step by step
 
-In this challenge, we worked on the elaboration of an initial structure of the Design System and the development of two mobile and web prototypes of the screens of the Dashboard project of a new Trevo Digital Client.
+In this challenge, we worked on the elaboration of an initial structure of the Design System and the development the mobile and web prototypes of the screens of the Dashboard project of a new Trevo Digital Client.
 
 Before starting work, the requirements and analysis team developed the initial WireFrame for the desktop version of the project:
 
