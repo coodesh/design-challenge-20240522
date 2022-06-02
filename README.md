@@ -76,5 +76,4 @@ After this stage, the presentation / correction of the project will be scheduled
 5. Prepare a list of questions, doubts, suggestions for improvements and feedbacks (if you have one).
 
 ## Support
-
-Use our slack channel: http://bit.ly/32CuOMy to ask questions about the process or send an email to contato@coodesh.com.
+Use [our community](https://coodesh.com/developers#community) to ask questions about the process or send an email to contato@coodesh.com.
