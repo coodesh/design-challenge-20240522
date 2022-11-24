@@ -6,6 +6,13 @@ This is a challenge to test your knowledge of Design and Prototyping;
 
 In this challenge, there are several ways to develop and obtain the proposed results. The objective is to evaluate its form of structuring and autonomy in decisions to build something scalable.
 
+### First things first
+ 
+- Prepare the project to be available on Github, copying the contents of this repository to yours (or use the project's fork and point to Github). Confirm that the project's visibility is public (don't forget to put the reference to this challenge in the readme);
+- The project must use the specific Language in its Job Posting (if applying). For example: Python, R, Scala and others;
+- Consider as deadline 5 days from the start of the challenge. If you have been invited to take the test and it is not possible to complete within this period, please notify the person who invited you to receive instructions on what to do.
+- Document the entire research process for the development of the activity (README.md in your repository); the results of these tasks are just as important as your thought process and decisions as you complete them, so try to document and present your hypotheses and decisions as much as possible.
+
 ## Challenge / Case
 
 The company Trevo Digital works with several customers globally in more than 15 countries, one of the main characteristics of the company is the strong positioning in the digital sector with a team focused on generating quality leads.
