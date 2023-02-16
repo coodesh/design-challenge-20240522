@@ -73,4 +73,4 @@ After this stage, the presentation / correction of the project will be scheduled
 4. Prepare yourself to explain each step and decision taken;
 
 ## Support
-Use [our community](https://coodesh.com/developers#community) to ask questions about the process or send an email to contato@coodesh.com.
+Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send an email to contato@coodesh.com.
