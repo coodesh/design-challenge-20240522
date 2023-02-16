@@ -56,31 +56,21 @@ No Wireframe proposal was developed for the mobile version, so we should elabora
 ### Extras
 
 - **Differential 1** Create a tablet proposal
-- **Differential 2** Use fluid components on Figma or Adobe XD
+- **Differential 2** Use fluid components on Figma
 - **Differential 3** Prototyping a new screen that contains a table with users list and dynamic filters (Search, Order by, etc..) 
 
 
-## Repository Readme
-
-- Must contain the title of the project
-- A description of a sentence
-- General instructions and final project files
-- Captures of the final result of the Project
-- Link to access the project if an Online system has been used.
-- Don't forget [.gitignore](https://www.toptal.com/developers/gitignore)
-
 ## Last Step
 
-Warn about the finalization and send for correction at: [https://coodesh.com/review-challenge](https://coodesh.com/review-challenge)
+Warn about the finalization and send for correction at: [https://coodesh.com/challenges/review](https://coodesh.com/challenges/review)
 After this stage, the presentation / correction of the project will be scheduled.
 
 ## Instructions for Presentation:
 
-1. It will be necessary to share the screen during the video call;
+1. It will be necessary to share the screen during the video recording;
 2. Leave all solution projects previously open on your computer before starting the call;
 3. Leave the environments configured and ready to run;
-4. Prepare yourself because you will be asked about each step and decision of the Challenge;
-5. Prepare a list of questions, doubts, suggestions for improvements and feedbacks (if you have one).
+4. Prepare yourself to explain each step and decision taken;
 
 ## Support
 Use [our community](https://coodesh.com/developers#community) to ask questions about the process or send an email to contato@coodesh.com.
