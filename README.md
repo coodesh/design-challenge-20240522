@@ -67,10 +67,19 @@ After this stage, the presentation / correction of the project will be scheduled
 
 ## Instructions for Presentation:
 
-1. It will be necessary to share the screen during the video recording;
-2. Leave all solution projects previously open on your computer before starting the call;
-3. Leave the environments configured and ready to run;
-4. Prepare yourself to explain each step and decision taken;
+Notify us of completion and submit for correction.
+
+1. Check if you answered the Scorecard attached to your application;
+2. Check if you answered the Mapping attached to your application;
+3. Access [https://coodesh.com/challenges/review](https://coodesh.com/challenges/review);
+4. Add the Figma embed link with your solution;
+5. Record a video, with a maximum of 5 minutes, with the presentation of your project. Use the time to:
+- Explain the purpose of the challenge
+- What technologies were used
+- Focus on mandatory and differential points when presenting.
+6. Check if the Readme is good and make the final commit in your repository;
+8. Select the job posting on the dropdown field;
+9. Submit and wait for the instructions to follow the process. Success and good luck. =)
 
 ## Support
 Use [our community](https://discord.gg/rdXbEvjsWu) to ask questions about the process or send an email to contato@coodesh.com.
