@@ -8,7 +8,6 @@ In this challenge, there are several ways to develop and obtain the proposed res
 
 ### First things first
  
-- Prepare the project to be available on Github, copying the contents of this repository to yours (or use the project's fork and point to Github). Confirm that the project's visibility is public (don't forget to put the reference to this challenge in the readme);
 - The project must use the specific Language/Tool in its Job Posting (if applying). For example: Python, R, Scala, Figma, Google Presentation and others;
 - Consider as deadline 5 days from the start of the challenge. If you have been invited to take the test and it is not possible to complete within this period, please notify the person who invited you to receive instructions on what to do.
 - Document the entire research process for the development of the activity (README.md in your repository); the results of these tasks are just as important as your thought process and decisions as you complete them, so try to document and present your hypotheses and decisions as much as possible.
